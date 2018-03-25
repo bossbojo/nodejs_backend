@@ -1,0 +1,16 @@
+{
+    "server": {
+        "port": "3000"
+    },
+    "mySql": {
+        "dataBase": "127.0.0.1",
+        "dataBaseName": "name_database",
+        "username": "my_username",
+        "password": "my_password",
+        "port": "3306"
+    },
+    "mongo":{
+        "username":"node-test",
+        "password":"node-test"
+    }
+}
